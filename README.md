@@ -23,4 +23,4 @@ Welcome to my GitHub profile! I am on a dedicated and intensive journey to maste
 
 ---
 
-*“Data is the new electricity, and I am learning to build the power grid.”* ⚡
+*“Data is the new electricity, and I am learning to build the power grid.”* ⚡.
