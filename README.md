@@ -9,9 +9,11 @@ Welcome to my GitHub profile! I am on a dedicated journey to master Data Science
 This is a living archive of my entire journey—from foundational practice scripts to end-to-end production projects.
 
 <details>
-<summary><b>🎯 Phase 1: Core Python & Logic Building Projects (8/20 Completed)</b></summary>
+<summary><b>🎯 Phase 1: Core Python & Logic Building Projects (9/20 Completed)</b></summary>
 <br>
-
+  
+* 🏧 [Smart ATM Bank](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Smart%20ATM%20Bank.py) - Smart ATM banking system logic.
+  
 * 🧮 [Smart Grade Calculation](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/4.%20A%20Smart%20grade%20calculation.py) - Basic logic & grade calculation system.
 * 📦 [Dynamic Billing & Live Inventory System](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Dynamic%20Billing%20%26%20Live%20Inventory%20Engine.py) - Inventory tracking and billing module.
 * 🍽️ [Restaurant Discount Offer](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Restaurant%20discount%20offer.py) - Conditional logic application for offers.
