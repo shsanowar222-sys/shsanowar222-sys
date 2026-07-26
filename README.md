@@ -15,7 +15,7 @@ This is a living archive of my entire journey—from foundational practice scrip
 * 🧮 [Smart Grade Calculation](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/4.%20A%20Smart%20grade%20calculation.py) - Basic logic & grade calculation system.
 * 📦 [Dynamic Billing & Live Inventory System](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Dynamic%20Billing%20%26%20Live%20Inventory%20Engine.py) - Inventory tracking and billing module.
 * 🍽️ [Restaurant Discount Offer](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Restaurant%20discount%20offer.py) - Conditional logic application for offers.
-* 🔍 [Smart Inventory Search Engine](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Smart%20Inventory%20search%20engine.py) - Search & filtering system in Python.
+* 🔍 [Smart Inventory search engine](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Smart%20inventory%20search%20engine.py)- Search & filtering system in Python.
 * 📊 [Smart Retail Sales Data Filter](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Smart%20retail%20sales%20data%20filter.py) - Data filtering automation script.
 * 🛍️ [Smart Shopping and Discount System](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/A%20Smart%20shopping%20and%20discount.py) - Automated discount management system.
 * 💰 [Budget and Savings Tracker](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Budget%20and%20savings%20tracker.py) - Personal finance tracking logic.
