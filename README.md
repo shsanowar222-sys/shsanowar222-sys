@@ -9,9 +9,10 @@ Welcome to my GitHub profile! I am on a dedicated journey to master Data Science
 This is a living archive of my entire journey—from foundational practice scripts to end-to-end production projects.
 
 <details>
-<summary><b>🎯 Phase 1: Core Python & Logic Building Projects (9/20 Completed)</b></summary>
+<summary><b>🎯 Phase 1: Core Python & Logic Building Projects (10/20 Completed)</b></summary>
 <br>
   
+ * 🛒 [Smart supermarket billing and inventory system](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Smart%20Supermarket%20Billing%20%26%20Inventory%20System%20.py) - Supermarket management logic. 
 * 🏧 [Smart ATM Bank](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Smart%20ATM%20Bank.py) - Smart ATM banking system logic.
   
 * 🧮 [Smart Grade Calculation](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/4.%20A%20Smart%20grade%20calculation.py) - Basic logic & grade calculation system.
