@@ -28,9 +28,11 @@ This is a living archive of my entire journey—from foundational practice scrip
 </details>
 
 <details>
-<summary><b>📊 Phase 2: Data Analysis & Visualization (Pandas, SQL, Seaborn)</b></summary>
+<summary><b>📊 Phase 2: Data Analysis & Visualization (Pandas, SQL, Seaborn)(1 Completed) </b></summary>
 <br>
 
+* 🛒 [E-Commerce Sales & Revenue Analysis](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Pandas%20ecommerce.ipynb) - An end-to-end Pandas data-cleaning and analysis project simulating e-commerce transactional data, featuring missing value imputation, date feature engineering, and monthly revenue aggregation.
+* 
 * 🔍 *Upcoming Projects (Pandas, NumPy, EDA & SQL Querying)*
 
 </details>
