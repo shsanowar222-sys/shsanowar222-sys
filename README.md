@@ -28,9 +28,10 @@ This is a living archive of my entire journey—from foundational practice scrip
 </details>
 
 <details>
-<summary><b>📊 Phase 2: Data Analysis & Visualization (Pandas, SQL, Seaborn) (1 Completed) </b></summary>
+<summary><b>📊 Phase 2: Data Analysis & Visualization (Pandas, SQL, Seaborn) (2 Completed) </b></summary>
 <br>
 
+* 🏠 [Real Estate Market & Price Analysis](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Pandas%20Real%20Estate%20Data.ipynb) - Pandas project featuring duplicate removal, city-wise median price imputation, datetime year extraction, and 2025 city-level average property price analysis.
 * 🛒 [E-Commerce Sales & Revenue Analysis](https://github.com/shsanowar222-sys/Data-Science-My-Dream-/blob/main/Pandas%20ecommerce.ipynb) - An end-to-end Pandas data-cleaning and analysis project simulating e-commerce transactional data, featuring missing value imputation, date feature engineering, and monthly revenue aggregation.
 * 
 
