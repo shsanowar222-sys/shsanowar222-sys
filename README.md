@@ -50,7 +50,7 @@ This is a living archive of my entire journey—from foundational practice scrip
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** Python
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit learn
 * **Tools:** VS Code, Git, GitHub
 
 ---
